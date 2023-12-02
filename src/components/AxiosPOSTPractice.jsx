@@ -36,7 +36,8 @@ function AxiosPOSTPractice() {
 	}
 	console.log(data);
 
-	return (
+	return (cls
+		
 		<div>
 			<label htmlFor="fname">First Name : </label>
 			<input
